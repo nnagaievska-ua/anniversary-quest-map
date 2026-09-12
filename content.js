@@ -15,7 +15,7 @@ window.QUEST_SETTINGS = {
   "requirePhotoToUnlock": true,
   "zipName": "anniversary-quest-photos"
 };
-
+var SETTINGS = window.QUEST_SETTINGS;
 window.QUEST_STEPS = [
   {
     "id": "entry",
